@@ -1,7 +1,7 @@
 package olatfull;
 
 /**
- * Created by javaNoob on 07.06.2017.
+ * C
  */
 public class Light {
     public String getColor() {
